@@ -1,79 +1,37 @@
-## Mobile Device Connectivity
+There are mainly 2 ways of connecting the mobile devices to the computer.
 
-There are mainly two ways of connecting mobile devices to a computer:
+## 1. Wired connectivity
 
-## 1. Wired Connectivity
+• USB (Universal Serial Bus)
 
-### USB (Universal Serial Bus)
+• Types of USB
+Micro B plug
+Mini B plug
+Type A plug
+USB C plug
 
-USB is the most common wired connection used to connect mobile devices to computers for data transfer and charging.
+• It has 24 pins.
 
-### Types of USB Connectors
+• These are used as single connector
+DisplayPort
+HDMI
+Thunderbolt
 
-* **Micro-B plug**
-* **Mini-B plug**
-* **USB Type-A plug**
-* **USB Type-C plug**
+Lightning connector
+• Used for Apple devices.
+• It has 8 pins.
 
-  * USB-C has **24 pins**
-  * Supports power, data transfer, and video output
+## 2. Wireless connectivity
 
-### Single Connector Solutions
+NFC (Near Field Communication)
+• Used for Payments, Sensor for access card, ect...
 
-Some USB-C connections can also be used as a single connector for multiple purposes such as:
+Bluetooth & Tethering
+• Used for connect devices like headsets or mice, ect...
+• It also refer to this as a PAN(Personal Area Network)
 
-* **DisplayPort** (for video output)
-* **HDMI** (for audio and video output)
-* **Thunderbolt** (for high-speed data and display connections)
+Hotspot
+• Used as a Internet router.
+• Used to share internet to others.
 
-### Lightning Connector
-
-* Used for Apple devices.
-* Contains **8 pins**.
-* Supports charging and data transfer.
-
----
-
-## 2. Wireless Connectivity
-
-### NFC (Near Field Communication)
-
-NFC is a short-range wireless communication technology.
-
-#### Uses:
-
-* Contactless payments
-* Access cards
-* Device authentication
-* Small data transfers
-
-### Bluetooth and Tethering
-
-#### Bluetooth
-
-* Used to connect devices such as:
-
-  * Headsets
-  * Mouse
-  * Keyboard
-  * Smartphones
-* Also referred to as a **PAN (Personal Area Network)**.
-
-#### Tethering
-
-* Used to share a mobile device's internet connection with a computer.
-* Can be done through:
-
-  * USB tethering
-  * Bluetooth tethering
-  * Wi-Fi tethering
-
-### Mobile Hotspot
-
-* Allows a mobile device to act like an internet router.
-* Shares mobile data with other devices through Wi-Fi.
-* Commonly used when no Wi-Fi network is available.
-
----
-
-✅ **End of Mobile Device Connectivity Section**
+END
