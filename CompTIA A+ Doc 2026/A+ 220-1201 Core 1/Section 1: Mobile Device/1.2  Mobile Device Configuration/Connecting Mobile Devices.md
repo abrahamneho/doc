@@ -1,37 +1,33 @@
-There are mainly 2 ways of connecting the mobile devices to the computer.
+**There are mainly 2 ways of connecting the mobile devices to the computer.**
+### 1. Wired connectivity
+**USB (Universal Serial Bus)**
+- **Types of USB**
+- [ ] Micro B plug
+- [ ] Mini B plug
+- [ ] Type A plug
+- [ ] USB C plug
+- *It has 24 pins.*
 
-## 1. Wired connectivity
+**These are used as single connector**
+- [ ] DisplayPort
+- [ ] HDMI
+- [ ] Thunderbolt
 
-• USB (Universal Serial Bus)
+**others**
+- [ ] Lightning connector
+- *Used for Apple devices.*
+- *It has 8 pins.*
 
-• Types of USB
-Micro B plug
-Mini B plug
-Type A plug
-USB C plug
+### 2. Wireless connectivity
+- [ ] NFC (Near Field Communication)
+- Used for Payments, Sensor for access card, ect...
 
-• It has 24 pins.
+- [ ] Bluetooth & Tethering
+- Used for connect devices like headsets or mice, ect...
+- It also refer to this as a PAN(Personal Area Network)
 
-• These are used as single connector
-DisplayPort
-HDMI
-Thunderbolt
+- [ ] Hotspot
+- Used as a Internet router.
+- Used to share internet to others.
 
-Lightning connector
-• Used for Apple devices.
-• It has 8 pins.
-
-## 2. Wireless connectivity
-
-NFC (Near Field Communication)
-• Used for Payments, Sensor for access card, ect...
-
-Bluetooth & Tethering
-• Used for connect devices like headsets or mice, ect...
-• It also refer to this as a PAN(Personal Area Network)
-
-Hotspot
-• Used as a Internet router.
-• Used to share internet to others.
-
-END
+**END**
