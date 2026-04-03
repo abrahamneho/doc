@@ -1,87 +1,80 @@
-## 1. About Batteries in Laptop.
+### 1. About Batteries in Laptop.
+**In the laptops we can see 2 types of batteries build.**
 
-• In the laptops we can see 2 types of batteries build.
+- [ ] **Removeable batteries.**
+- Which are very easy to remove by the users.
+- To change the battery there is a button that you can press that will pop out the battery.
 
-**Removeable batteries.**
-• Which are very easy to remove by the users.
-• To change the battery there is a button that you can press that will pop out the battery.
+- [ ] **Build in batteries.**
+- These type of batteries cant be removed by users.
+- To change the battery can have to reach to a technician.
 
-**Build in batteries.**
-• These type of batteries cant be removed by users.
-• To change the battery can have to reach to a technician.
-• And the typers of batteries used in most laptop in general.
-
-**Lithium ion batteries.**
-
-**Lithium ion polymer batteries.**
-
-• Both batteries dont have the traditional memory effect that we have with older battery tech.
-• In this we can recharge the battery any time and no worry that affecting the overall capacity of that particular battery.
+**And the typers of batteries used in most laptop in general.**
+- [ ] **Lithium ion batteries.**
+- [ ] **Lithium ion polymer batteries.**
+- Both batteries dont have the traditional memory effect that we have with older battery tech.
+- In this we can recharge the battery any time and no worry that affecting the overall capacity of that particular battery.
 
 ---
 
-## 2. About Keyboard in Laptop.
+### 2. About Keyboard in Laptop.
+**Some of the problems which can be faced by the keyboard.**
 
-• Some of the problems which can be faced by the keyboard.
-
-**In any particular keys in the keyboard.**
-
-• To find a Problem (key) : We have to reconnect with a new keyboard.
-• To find a Fix the Problem (key) : We have to replace a single key.
-• To do that we have to remove the keycap and replace this a new one handle with special care dont damage th keys while replacing the keys.
-• Replace the keycap based on the manufacturers instructions.
+- [ ] **In any particular keys in the keyboard.**
+- To find a Problem (key) : We have to reconnect with a new keyboard.
+- To find a Fix the Problem (key) : We have to replace a single key.
+- *To do that we have to remove the keycap and replace this a new one handle with special care dont damage th keys while replacing the keys.*
+- *Replace the keycap based on the manufacturers instructions.*
 
 ---
 
-## 3. About Memory Module in Laptop.
+### 3. About Memory Module in Laptop.
+**SO-DIMM modules are used my laptops.**
+- Its easy to remove and replace the modules, But if the laptop provides soldered modual to the laptop then we have no way  we have to replace the entire motherboard.
+- To upgrad the memory on the laptops, Just we want to open the back of the laptop and add the new memory into the slots.
 
-• SO-DIMM modules are used my laptops.
-• Its easy to remove and replace the modules, But if the laptop provides soldered modual to the laptop then we have no way  we have to replace the entire motherboard.
-• To upgrad the memory on the laptops, Just we want to open the back of the laptop and add the new memory into the slots.
+**There are 2 main storage hardwares.**
+- [ ] **HDD (Hard DIsk Drive)**
+- These are used in old laptops and desktops.
 
-• There are 2 main storage hardwares.
+- [ ] **SSD (Solid State Drive)**
+- Now a days laptops are using these drive like M.2 interface.
 
-**HDD (Hard DIsk Drive)**
-• These are used in old laptops and desktops.
-
-**SSD (Solid State Drive)**
-• Now a days laptops are using these drive like M.2 interface.
-• There are some of the options to to transfor data form one drive to othere drive.
-• Must mound the Both drives one that have data and one which want to transfer data.
-
----
-
-## 4. About Wireless connections and bluetooth in Laptops.
-
-• Now a days laptops usually have wireless connections.
-
-**802.11 (Wifi)**
-• Its a local area metwork wireless connection.
-
-**Bluetooth**
-• Its a short range network  commnucation.
-• Usually laptops are bulid this in the motherboard.
-• But older laptops and PC use interface cards.
+**There are some of the options to to transfor data form one drive to othere drive.**
+- Must mound the Both drives one that have data and one which want to transfer data.
 
 ---
 
-## 5. About Biometrics in Laptops.
+### 4. About Wireless connections and bluetooth in Laptops.
 
-• There are some of the Hardwares used for Biometrics to unlock.
+**Now a days laptops usually have wireless connections.**
 
-**Camera (Webcam)**
-• For Face Recognition using face ID.
+- [ ] **802.11 (Wifi)**
+- Its a local area metwork wireless connection.
 
-**Finger Print Reader**
-• For Fingerprint recognition.
-
----
-
-## 6. About NFC in phone / smartwatch
-
-• NFC means Near Field Communication
-• It is used to make a payment or it can be used as a access care.
+- [ ] **Bluetooth**
+- Its a short range network  commnucation.
+**Usually laptops are bulid this in the motherboard.**
+**But older laptops and PC use interface cards.**
 
 ---
 
-**DONE WITH 1.1 IN Core1**
+### 5. About Biometrics in Laptops.
+**There are some of the Hardwares used for Biometrics to unlock.**
+
+- [ ] **Camera (Webcam)**
+- For Face Recognition using face ID.
+
+- [ ] **Finger Print Reader**
+- For Fingerprint recognition.
+
+---
+
+### 6. About NFC in phone / smartwatch
+
+**NFC means Near Field Communication.**
+- It is used to make a payment or it can be used as a access care.
+
+---
+
+- [ ] **DONE WITH 1.1 IN Core1**
