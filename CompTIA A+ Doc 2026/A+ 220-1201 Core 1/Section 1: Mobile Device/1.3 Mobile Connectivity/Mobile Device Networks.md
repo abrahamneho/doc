@@ -1,53 +1,46 @@
-## What is Cellular Networks?
+### What is Cellular Networks?
+- These operate by having antennas that separate areas of the land into what we are calling cells.
+- These cellular network provides both voice and data communication.
 
-• These operate by having antennas that separate areas of the land into what we are calling cells.
-• These cellular network provides both voice and data communication.
+- [ ] **3G Technology**
+- It allows us to have GPS functionality.
 
-**3G Technology**
-• It allows us to have GPS functionality.
+- [ ] **4G Technology**
+- It refers as LTE (Long term evolution)
+- Based on a technology called GSM (Global system for mobile communications.
+- It may hear this reffered to as EDGE or the enhanced data rates for GSM evolution.
+- It has a bandwidths up to 150 megabits per sec.
 
-**4G Technology**
-• It refers as LTE (Long term evolution)
-• Based on a technology called GSM (Global system for mobile communications.
-• It may hear this reffered to as EDGE or the enhanced data rates for GSM evolution.
-• It has a bandwidths up to 150 megabits per sec.
+- Then we are able to upgrade LTE to LTE Advanced or LTEA.
+- *It has a bandwidths up to 300 megabits per sec.*
 
-• Then we are able to upgrade LTE to LTE Advanced or LTEA.
-• It has a bandwidths up to 300 megabits per sec.
-
-**5G Technology**
-• It has a bandwidths up to 10 gigabits per sec.
-• If the user is running on the 5g network they will get 100 to 900 megabits per sec in total.
+- [ ] **5G Technology**
+- It has a bandwidths up to 10 gigabits per sec.
+- If the user is running on the 5g network they will get 100 to 900 megabits per sec in total.
 
 ---
 
-## 1. Wifi Technology (802.11)
+### 1. Wifi Technology (802.11)
+- It is use home and in our offices.
+- It is the ways to connect with the local access point.
+- It enables to use voice, video, data and almost anyother type of data transfer.
 
-• It is use home and in our offices.
-• It is the ways to connect with the local access point.
-• It enables to use voice, video, data and almost anyother type of data transfer.
+### 2. Hotspot
+- To turn our moblie into an internet router.
 
-## 2. Hotspot
+### 3. SIM (Subscriber identify module)
+- It contains SIM ID and a phone number.
+- It store contacts and messages on the SIM.
 
-• To turn our moblie into an internet router.
+### 4. eSIM (embedded SIM)
+- It is the eletronic version of physical SIM.
 
-## 3. SIM (Subscriber identify module)
+### 5. Bluetooth
+- It is used to connect with the external devices.
 
-• It contains SIM ID and a phone number.
-• It store contacts and messages on the SIM.
+### 6. GPS (Global positioning system)
+- It is created by US department of defense.
+- It use the satellites to get accurate GPS readings use in Maps.
+- It works by receiving signal form satellites to determine the longitude, latitude and the atitude about sea level.
 
-## 4. eSIM (embedded SIM)
-
-• It is the eletronic version of physical SIM.
-
-## 5. Bluetooth
-
-• It is used to connect with the external devices.
-
-## 6. GPS (Global positioning system)
-
-• It is created by US department of defense.
-• It use the satellites to get accurate GPS readings use in Maps.
-• It works by receiving signal form satellites to determine the longitude, latitude and the atitude about sea level.
-
-**END**
+- [ ] **END**
