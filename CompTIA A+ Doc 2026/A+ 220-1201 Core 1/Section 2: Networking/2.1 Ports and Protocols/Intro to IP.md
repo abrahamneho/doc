@@ -4,13 +4,17 @@
 - [ ] DSL Networks  
 - [ ] other types  
 
-**Ethernet header**
+- **Ethernet header**
+- ↓ 
 - **Network (ethernet Payload)**
+- ↓ 
 - **IP (Internet Protocol)**
+- ↓ 
 - [ ] TCP (Transmission Control Protocol)  
 - [ ] UDP (User Datagram Protocol)  
 - These are refer as an OSI Layer 4 protocol.
-**Ethernet trailer**
+- ↓ 
+- **Ethernet trailer**
 
 **TCP (Transmission Control Protocol)**
 - This is the protocol which is connection oriented.  
