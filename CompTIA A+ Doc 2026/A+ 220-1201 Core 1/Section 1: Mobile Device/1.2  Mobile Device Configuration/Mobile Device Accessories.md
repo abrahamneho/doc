@@ -1,31 +1,31 @@
-## Stylus
+### Stylus
 
-• Is used to control the screen of the mobile or tab
+- Is used to control the screen of the mobile or tab
 
-## Headset
+### Headset
 
-• Is used to ear sounds and able to speak thourgh mic.
-• It commonly use USB or may use a TRRS (Tip-Ring-Ring-Sleeve) connector.
-• And there are wireless headset also.
+- Is used to ear sounds and able to speak thourgh mic.
+- It commonly use USB or may use a TRRS (Tip-Ring-Ring-Sleeve) connector.
+- And there are wireless headset also.
 
-## Cameras
+### Cameras
 
-• This is the external 3rd Party cameras used to take pic using mobile phones
+- This is the external 3rd Party cameras used to take pic using mobile phones
 
-## Docking Station
+### Docking Station
 
-• It is used to connect all the plugs in the one place
+- It is used to connect all the plugs in the one place
 
-## Port Replicator
+### Port Replicator
 
-• It is the device it used to connect many USB ports
+- It is the device it used to connect many USB ports
 
-## Trackpad
+### Trackpad
 
-• It is used for controling the computer using fingers
+- It is used for controling the computer using fingers
 
-## Drawing Pad
+### Drawing Pad
 
-• It is used to drawing using the special pen in the drawing pad to display the output in the screen
+- It is used to drawing using the special pen in the drawing pad to display the output in the screen
 
-END
+- [ ] **END**
