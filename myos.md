@@ -74,8 +74,8 @@ make install DESTDIR=~/myos/rootfs
 ```bash
 cd ~/myos
 wget https://ftp.gnu.org/gnu/bash/bash-5.3.tar.gz
-tar -xf bash-5.2.tar.gz
-cd bash-5.2
+tar -xf bash-5.3.tar.gz
+cd bash-5.3
 ./configure --prefix=/usr
 make -j$(nproc)
 make install DESTDIR=~/myos/rootfs
