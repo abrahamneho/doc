@@ -1,5 +1,4 @@
-A minimal Linux OS built completely from scratch without using any distro.
-
+# A minimal Linux OS built completely from scratch without using any distro in 2K26.
 ---
 
 ## What is inside
