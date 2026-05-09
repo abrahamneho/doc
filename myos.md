@@ -45,9 +45,9 @@ cd ~/myos
 ## Step 3 — Download and compile Linux Kernel
 
 ```bash
-wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.18.27.tar.xz
-tar -xf linux-6.18.27.tar.xz
-cd linux-6.18.27
+wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.6.30.tar.xz
+tar -xf linux-6.6.30.tar.xz
+cd linux-6.6.30
 make defconfig
 make -j$(nproc)
 ```
@@ -73,9 +73,9 @@ make install DESTDIR=~/myos/rootfs
 
 ```bash
 cd ~/myos
-wget https://ftp.gnu.org/gnu/bash/bash-5.3.tar.gz
-tar -xf bash-5.3.tar.gz
-cd bash-5.3
+wget https://ftp.gnu.org/gnu/bash/bash-5.2.tar.gz
+tar -xf bash-5.2.tar.gz
+cd bash-5.2
 ./configure --prefix=/usr
 make -j$(nproc)
 make install DESTDIR=~/myos/rootfs
