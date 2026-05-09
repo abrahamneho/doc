@@ -5,7 +5,7 @@
 
 | Layer | Software | Version |
 |---|---|---|
-| Kernel | Linux | 6.18.27 LTS |
+| Kernel | Linux | 6.6.138 LTS |
 | C Library | glibc | 2.39 |
 | Shell | Bash | 5.3 |
 | Coreutils | GNU Coreutils | 9.4 |
