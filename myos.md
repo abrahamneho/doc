@@ -143,7 +143,7 @@ mkdir -p bin sbin usr/bin usr/sbin lib lib64 etc dev proc sys tmp home root
 ```bash
 cd ~/myos
 mkdir -p iso/boot/grub
-cp linux-6.18.27/arch/x86/boot/bzImage iso/boot/vmlinuz
+cp linux-6.6.138/arch/x86/boot/bzImage iso/boot/vmlinuz
 
 cd rootfs
 find . | cpio -o -H newc | gzip > ../iso/boot/initrd.img
